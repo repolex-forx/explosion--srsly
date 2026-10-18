@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/explosion/srsly/commit/050951efad45e2347f2b90b52398affcecf86fca",
       "git:hexsha": "050951efad45e2347f2b90b52398affcecf86fca",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v3.0.0"
     },
     {
