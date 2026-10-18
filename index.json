@@ -1,0 +1,11 @@
+{
+  "org": "explosion",
+  "repo": "srsly",
+  "versions": [
+    {
+      "commit": "050951efad45e2347f2b90b52398affcecf86fca",
+      "tag": "v3.0.0",
+      "parsed_at": "2026-10-18T13:33:23.911240+00:00"
+    }
+  ]
+}
