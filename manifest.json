@@ -40,7 +40,46 @@
       "ast": [
         "aggregate/ast/050951efad45e2347f2b90b52398affcecf86fca/chunk-001.nq.gz"
       ],
-      "repolex": "aggregate/repolex/050951efad45e2347f2b90b52398affcecf86fca/chunk-001.nq.gz"
+      "repolex": "aggregate/repolex/050951efad45e2347f2b90b52398affcecf86fca/chunk-001.nq.gz",
+      "lsp": "aggregate/lsp/050951efad45e2347f2b90b52398affcecf86fca.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "numpy",
+          "ecosystem": "PYPI",
+          "version": "2.5.5",
+          "githubOrg": "numpy",
+          "githubRepo": "numpy",
+          "githubCommit": "afcbc6d21a88a7b59c5bfe115198e24ed51b3dae",
+          "githubTag": "v2.5.5",
+          "githubUrl": "https://github.com/numpy/numpy",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/numpy/testing/_private/utils.py"
+        },
+        {
+          "packageName": "setuptools",
+          "ecosystem": "PYPI",
+          "version": "84.2.1",
+          "githubOrg": "pypa",
+          "githubRepo": "setuptools",
+          "githubCommit": "3895f9829fc0e51882981773a823a658eb1d1636",
+          "githubTag": "v84.2.1",
+          "githubUrl": "https://github.com/pypa/setuptools",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/setuptools/__init__.py"
+        },
+        {
+          "packageName": "cloudpickle",
+          "ecosystem": "PYPI",
+          "version": "3.1.3",
+          "githubOrg": "cloudpipe",
+          "githubRepo": "cloudpickle",
+          "githubCommit": "6de6909bcfb890dbf1910d52b1bc192506de42a1",
+          "githubTag": "v3.1.3",
+          "githubUrl": "https://github.com/cloudpipe/cloudpickle",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/cloudpickle/cloudpickle.py"
+        }
+      ]
     }
   ],
   "commit": "commit/commit.nq.gz",
