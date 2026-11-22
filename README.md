@@ -38,6 +38,8 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   ├── ast
 │   │   └── 050951efad45e2347f2b90b52398affcecf86fca
 │   │       └── chunk-001.nq.gz
+│   ├── lsp
+│   │   └── 050951efad45e2347f2b90b52398affcecf86fca.nq.gz
 │   └── repolex
 │       └── 050951efad45e2347f2b90b52398affcecf86fca
 │           └── chunk-001.nq.gz
@@ -73,6 +75,8 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   └── branch.nq.gz
 ├── commit
 │   └── commit.nq.gz
+├── dep
+│   └── 050951efad45e2347f2b90b52398affcecf86fca.nq.gz
 ├── filetree
 │   └── 050951efad45e2347f2b90b52398affcecf86fca.nq.gz
 ├── issue
@@ -82,7 +86,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 └── tag
     └── tag.nq.gz
 
-13 directories, 35 files
+15 directories, 37 files
 ```
 
 | Directory | What it contains |
@@ -103,4 +107,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [explosion/srsly](https://github.com/explosion/srsly)
 
 ---
-*Parsed on 2026-10-18 by [repolex](https://repolex.ai)*
+*Parsed on 2026-11-22 by [repolex](https://repolex.ai)*
