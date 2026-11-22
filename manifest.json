@@ -79,7 +79,8 @@
           "source": "lsp",
           "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/cloudpickle/cloudpickle.py"
         }
-      ]
+      ],
+      "dep": "dep/050951efad45e2347f2b90b52398affcecf86fca.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
